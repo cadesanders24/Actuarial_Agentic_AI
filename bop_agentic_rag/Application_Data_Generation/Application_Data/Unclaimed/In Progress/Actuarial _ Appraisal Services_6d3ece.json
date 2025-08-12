@@ -7,19 +7,21 @@
     "CONTACT FOR INSPECTION": "John Doe, Senior Inspector",
     "GL CODE": "8742",
     "SIC": "8742",
-    "NATURE OF BUSINESS": "Other",
+    "NATURE OF BUSINESS": "Management Consulting Services",
     "DESCRIPTION OF OPERATIONS": "Smith & Associates Actuarial Services provides comprehensive actuarial analysis, risk assessment, and appraisal services primarily focused on the automotive sector. Our team of expert actuaries and appraisers leverages extensive industry knowledge to deliver accurate valuations and insights for clients, including automotive repair shops, insurers, and financial institutions. We emphasize data-driven methodologies and compliance with regulatory standards, ensuring that our clients receive reliable assessments that support their business decisions.",
     "DATE BUSINESS STARTED": "01/15/2010",
     "EFFECTIVE DATE": "10/01/2023",
-    "EXPIRATION DATE": "09/30/2023",
+    "EXPIRATION DATE": "09/30/2024",
     "NEW/RENEWAL": "NEW",
     "PAYMENT PLAN": "Quarterly",
     "TOTAL PREMIUM": "$\"5000.00",
     "POLICY #": "SA-2023-001",
-    "GENERAL INFO QUESTIONS": "1. **Yes** - The business has operations that involve storing hazardous materials which include flammable liquids and automotive waste, which violates underwriting guidelines.  \n2. **No** - The business does not sponsor athletic teams.  \n3. **No** - Sub-contractors are not allowed to work without providing a certificate of insurance; the owner is responsible for checking certificates.  \n4. **No** - No applicants have been indicted or convicted of fraud, bribery, arson, or any related crimes.  \n5. **No** - There have been no policy or coverage declines, cancellations, or non-renewals during the prior three years.  \n6. **No** - The business does not lease employees to or from other employers.  \n7. **Yes** - Workers Compensation is carried for employees as required.  \n8. **No** - The business does not own or operate any other business.  \n9. **No** - There are no other insurance policies with this company.  \n10. **No** - The business is not involved in manufacturing, mixing, relabeling, or repackaging of products.  \n11. **No** - The business does not rent or loan equipment to others.  \n12. **No** - The applicant has not had foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years.  \n13. **Yes** - There is exposure to flammables due to the nature of the automotive repair work, which can include various chemicals and materials.  \n14. **No** - There is no specific catastrophe exposure associated with the business operations.  \n15. **No** - There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring.  \n16. **Yes** - There are uncorrected fire code violations identified during a recent inspection, which poses a significant risk for underwriting.",
+    "GENERAL INFO QUESTIONS": "1. **No** - The business does not have operations that involve storing hazardous materials which include flammable liquids and automotive waste. 2. **No** - The business does not sponsor athletic teams. 3. **No** - Sub-contractors are not allowed to work without providing a certificate of insurance; the owner is responsible for checking certificates. 4. **No** - No applicants have been indicted or convicted of fraud, bribery, arson, or any related crimes. 5. **No** - There have been no policy or coverage declines, cancellations, or non-renewals during the prior three years. 6. **No** - The business does not lease employees to or from other employers. 7. **Yes** - Workers Compensation is carried for employees as required. 8. **No** - The business does not own or operate any other business. 9. **No** - There are no other insurance policies with this company. 10. **No** - The business is not involved in manufacturing, mixing, relabeling, or repackaging of products. 11. **No** - The business does not rent or loan equipment to others. 12. **No** - The applicant has not had foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. 13. **No** - There is no exposure to flammables, explosives, or chemicals. 14. **No** - There is no specific catastrophe exposure associated with the business operations. 15. **No** - There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. 16. **Yes** - There are uncorrected fire code violations identified during a recent inspection, which poses a significant risk for underwriting.",
     "OTHER BUSINESSES OWNED": "N/A",
     "PREVIOUS CARRIER": "ABC Insurance Company",
-    "POLICY NUMBER": "POLICY NUMBER\": \"SA-2022-045",
+    "POLICY NUMBER": "SA-2022-045",
+    "TOTAL PREMIUM": "$5000",
+    "EXPIRATION DATE": "09/30/23",
     "TOTAL LOSSES": "$75,000.00",
     "DESCRIPTION OF LOSSES": "On March 15, 2023, a fire incident occurred due to unaddressed fire code violations, resulting in damage to office equipment and data loss. The estimated loss amounted to $50,000, with the claim currently in review by the insurance adjuster. Additionally, on April 22, 2023, a minor water leak caused $25,000 in damages, which has been resolved and the claim paid.",
     "Combined Single Limit": "1000000/5000",
@@ -65,16 +67,15 @@
     "Google Review Count": 92,
     "Average Review Rating": 4.9,
     "Sample Reviews": [
-      "I recently sought the services of [Business Name] for an appraisal on my property, and I was impressed with their comprehensive approach. Their team demonstrated a solid understanding of the market and provided a thorough report in a timely manner, which was very helpful for my planning purposes. Overall, I found their professionalism and attention to detail to be commendable.",
+      "I recently sought the services of Smith & Associates Actuarial Services for an appraisal on my property, and I was impressed with their comprehensive approach. Their team demonstrated a solid understanding of the market and provided a thorough report in a timely manner, which was very helpful for my planning purposes. Overall, I found their professionalism and attention to detail to be commendable.",
       "I had an excellent experience with the actuarial and appraisal services provided by this firm. Their team was highly knowledgeable and professional, guiding me through the entire valuation process with clarity and expertise. I appreciated their attention to detail and timely communication, which made everything smooth and stress-free.",
-      "The team at [Business Name] provided outstanding appraisal services with meticulous attention to detail, making the entire process smooth and stress-free.",
+      "The team at Smith & Associates Actuarial Services provided outstanding appraisal services with meticulous attention to detail, making the entire process smooth and stress-free.",
       "I was thoroughly impressed with the professionalism and expertise of the team at this actuarial and appraisal services firm, making the entire process smooth and insightful.",
-      "I recently had the pleasure of working with [Business Name] for some actuarial and appraisal services, and I couldn't be more impressed with their professionalism and expertise. They provided clear insights and thorough analysis, making the entire process smooth and informative. Their team's attention to detail and commitment to customer satisfaction truly sets them apart in the industry!"
+      "I recently had the pleasure of working with Smith & Associates Actuarial Services for some actuarial and appraisal services, and I couldn't be more impressed with their professionalism and expertise. They provided clear insights and thorough analysis, making the entire process smooth and informative. Their team's attention to detail and commitment to customer satisfaction truly sets them apart in the industry!"
     ],
     "Number of Claims": 2,
-    "Total Losses": 16814
+    "Total Losses": "$75000.00"
   },
   "Final Decision": "REJECT",
-  "Final Reason": "The business violates underwriting guidelines due to operations involving the storage of hazardous materials, which is specifically excluded from coverage.",
-  "Underwriting Guidelines": "This expanded guidance aims to assist underwriters in accurately assessing risks and expo-\nsures associated with auto parts and accessories businesses, ensuring appropriate coverage while\nmitigating potential liabilities.\n3.22\nAuto Services & Repair\nUnderwriting Appetite\n\u2022 Preferred:\n\u2013 Standard automotive repair shops primarily engaged in mechanical repairs, diagnostics,\nand routine maintenance (e.g., oil changes, brake repairs) without 24-hour operations or\nsalvage activities. These shops typically do not perform high-risk services such as racing\nmodifications or demolition work.\n\u2013 Facilities with secure, well-maintained premises that demonstrate compliance with OSHA\nregulations, including proper employee training and safety protocols. Fire protection\nmeasures should be documented and include automatic sprinkler systems or approved\nfire extinguishers, particularly in paint and flammable storage areas."
-}
+  "Final Reason": "The business's history of losses is unsatisfactory due to the unaddressed violations.",
+  "Underwriting Guidelines": "Preferred: Established actuarial and appraisal firms with well-documented and consistently applied valuation methodologies, including standardized procedures for data verification and quality control. Not Acceptable: Firms lacking any form of professional liability coverage or with a history of fraud. misrepresentation, or significant misstatement claims."
